@@ -1,0 +1,28 @@
+{
+  "name": "angular-snakeCamelKebab",
+  "version": "0.1.0",
+  "authors": [
+    "Ændrew Rininsland <aendrew@aendrew.com>"
+  ],
+  "description": "Converts strings between various cases",
+  "main": "services/snakeCamelKebab.service.js",
+  "keywords": [
+    "angular",
+    "angularjs",
+    "snake_case",
+    "camelCase",
+    "kebab-case",
+    "dash-case",
+    "underscore-case",
+    "strings"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/times/angular-snakecamelkebab",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
