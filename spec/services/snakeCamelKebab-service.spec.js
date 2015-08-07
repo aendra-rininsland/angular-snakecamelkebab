@@ -1,6 +1,6 @@
 describe('Service: snakeCamelKebabService', function() {
   var snakeCamelKebab;
-  beforeEach(module('bloodfiles'));
+  beforeEach(module('times.snakeCamelKebab'));
   beforeEach(inject(function(_snakeCamelKebabService_) {
   snakeCamelKebab = _snakeCamelKebabService_;
   }));
